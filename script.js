@@ -27,10 +27,10 @@ function navigasi(nav) {
 }
 
 function insertClass(component, status) {
-  com.classList.add(status);
+  component.classList.add(status);
 }
 function deleteClass(component, status) {
-  com.classList.remove(status);
+  component.classList.remove(status);
 }
 
 
